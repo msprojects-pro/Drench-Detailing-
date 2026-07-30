@@ -1,0 +1,6 @@
+{
+  "name": "Drench Detailing",
+  "description": "Mobile Detailing Service in Cheshire, Manchester and Northwest UK. Professional deep cleaning, valeting, paint correction and ceramic protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
